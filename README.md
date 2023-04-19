@@ -8,7 +8,7 @@ Python 3.10, Django 4.2, DRF, JWT + Djoser
 
     Клонируем репозиторий и переходим в него в командной строке
 
-git clone https://github.com/QuiShimo/api_final_yatube.git
+git clone https://github.com/ocronis/api_final_yatube.git
 
 cd api_final_yatube
 
