@@ -13,7 +13,7 @@ class PostSerializer(serializers.ModelSerializer):
     class Meta:
         model = Post
         fields = '__all__'
-        read_only_fields = ('pub_date', 'author')
+        read_only_fields = ('pub_date',)
 
 
 class GroupSerializer(serializers.ModelSerializer):
